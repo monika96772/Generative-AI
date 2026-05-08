@@ -1,0 +1,4 @@
+﻿Material,Stock,Demand,Supplier,Price
+chair_01,10,50,A,100
+table_01,100,40,B,300
+desk_01,5,20,A,200
